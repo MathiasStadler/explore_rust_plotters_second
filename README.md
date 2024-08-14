@@ -38,6 +38,7 @@ touch README.md \
 ```
 ext install esbenp.prettier-vscode
 ext install yzhang.markdown-all-in-one
+ext install rust-lang.rust-analyzer
 ```
 
 ## cold rust update / renew
