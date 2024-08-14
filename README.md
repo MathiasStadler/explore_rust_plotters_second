@@ -59,6 +59,11 @@ cargo add plotters
 cargo build
 ```
 
+## plotters [homepage](https://plotters-rs.github.io/home/#!/)
+## plotters [github](https://github.com/plotters-rs/plotters/tree/master/plotters)
+
+## command history
+
 cargo init
     2  cargo build
     3  apt update
@@ -106,3 +111,6 @@ cargo init
 
 - https://github.com/alacritty/alacritty/blob/master/INSTALL.md#dependencies
 apt install cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-xfixes0-dev libxkbcommon-dev python3
+
+- [Dependencies - Debian/Ubuntu Linux](https://github.com/plotters-rs/plotters/blob/master/README.md#ubuntu-linux)
+sudo apt install pkg-config libfreetype6-dev libfontconfig1-dev
