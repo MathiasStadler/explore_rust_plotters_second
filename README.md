@@ -58,3 +58,24 @@ ext install rust-lang.rust-analyzer
 cargo add plotters
 cargo build
 ```
+
+cargo init
+    2  cargo build
+    3  apt update
+    4  sudo apt update
+    5  sudo apt install pkg-config
+    6  cargo build
+    7  sudo apt install fontconfig
+    8  sudo apt upgrade
+    9  history 
+
+yeslogic-fontconfig-sys
+https://crates.io/crates/yeslogic-fontconfig-sys 
+
+[First time with PKG_CONFIG_PATH](https://forums.debian.net/viewtopic.php?t=159260)
+
+-  Building with cargo fails, unable to run custom build command for servo-fontconfig-sys #5564 
+-- https://github.com/alacritty/alacritty/issues/5564
+
+- https://github.com/alacritty/alacritty/blob/master/INSTALL.md#dependencies
+apt install cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-xfixes0-dev libxkbcommon-dev python3
