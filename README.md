@@ -114,3 +114,12 @@ apt install cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-xfixes0-
 
 - [Dependencies - Debian/Ubuntu Linux](https://github.com/plotters-rs/plotters/blob/master/README.md#ubuntu-linux)
 sudo apt install pkg-config libfreetype6-dev libfontconfig1-dev
+
+## x2Go
+
+- [How To Set Up a Remote Desktop with X2Go on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-remote-desktop-with-x2go-on-ubuntu-20-04)
+
+```bash
+sudo apt update
+sudo apt-get install x2goserver x2goserver-xsession
+```
