@@ -32,6 +32,8 @@ touch README.md \
 && cargo build 
 ```
 
+## [Run examples in subfolders using cargo](https://users.rust-lang.org/t/run-examples-in-subfolders-using-cargo/18154)
+
 ## add ext for vscode 
 
 - press F1 
