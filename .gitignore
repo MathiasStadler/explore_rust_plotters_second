@@ -1,2 +1,5 @@
 /target
 /output/**/*/
+/plots-output/**/*
+/plotters-doc-data/**/*
+

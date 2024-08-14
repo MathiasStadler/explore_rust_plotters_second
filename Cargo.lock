@@ -260,6 +260,7 @@ dependencies = [
 name = "explore_rust_plotters_second"
 version = "0.1.0"
 dependencies = [
+ "chrono",
  "plotters",
  "rustfmt",
 ]

@@ -59,6 +59,12 @@ cargo add plotters
 cargo build
 ```
 
+## add chrone for examples/plotter_2_sma.rs
+
+```bash
+cargo add chrono
+```
+
 ## plotters [homepage](https://plotters-rs.github.io/home/#!/)
 ## plotters [github](https://github.com/plotters-rs/plotters/tree/master/plotters)
 
